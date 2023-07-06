@@ -1,0 +1,23 @@
+.exploded-particles__video {
+    position: absolute;
+    z-index: 1000;
+    pointer-events: none;
+   // opacity: .5;
+    //border: 1px solid red;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+
+    width: 40vh;
+    height: 68.5vh;
+
+    video {
+        width: 100%;
+    }
+}
+
+.webgl {
+    width: 100vw;
+    height: 100vh;
+}
