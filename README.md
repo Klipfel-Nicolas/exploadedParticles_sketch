@@ -1,9 +1,9 @@
 # Exploaded Particles img/video Effects
-[![Watch the video](https://github.com/Klipfel-Nicolas/exploadedParticles_sketch/blob/main/public/video/image_short.mov)
+[![Watch the video](https://github.com/Klipfel-Nicolas/exploadedParticles_sketch/blob/master/public/video/image_short.mov)
 
-[![Watch the video](https://github.com/Klipfel-Nicolas/exploadedParticles_sketch/blob/main/public/video/images_long.mov)
+[![Watch the video](https://github.com/Klipfel-Nicolas/exploadedParticles_sketch/blob/master/public/videos/images_long.mov)
 
-[![Watch the video](https://github.com/Klipfel-Nicolas/exploadedParticles_sketch/blob/main/public/video/video.mov)
+[![Watch the video](https://github.com/Klipfel-Nicolas/exploadedParticles_sketch/blob/master/public/video/video.mov)
 
 ## ToDO
  - handle this.renderer and this.composer.render()
